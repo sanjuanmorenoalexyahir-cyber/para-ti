@@ -2,7 +2,7 @@
     position: relative;
     display: inline-block;
     text-align: center;
-    Align-content: center;
+    justify-content: center;
 }
 
 .texto{
@@ -13,6 +13,7 @@
     transform: translate(-50%,-50%);
 
 }
+
 
 
 
