@@ -1,4 +1,4 @@
-.container{
+.contenedor{
     position: relative;
     display: inline-block;
     text-align: center;
@@ -13,6 +13,7 @@
     transform: translate(-50%,-50%);
 
 }
+
 
 
 
