@@ -2,6 +2,7 @@
     position: relative;
     display: inline-block;
     text-align: center;
+    align-items: center;
 }
 
 .texto{
@@ -10,4 +11,5 @@
     top:50%;
     left: 50%;
     transform: translate(-50%,-50%);
+
 }
