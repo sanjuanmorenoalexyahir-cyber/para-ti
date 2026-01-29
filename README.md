@@ -8,7 +8,7 @@
             <link rel="stylesheet" href="style 1.css">
             <div class="container">
                 <img src="contenedor.png" width="500 px height 500 px"/>
-                <div class"container/>
+                <div container/>
                 <p class="texto">
 <h2>Sin duda, lo mejor que me ha pasado fue conocerte.
 Sorprendentemente, <a href="https://youtu.be/fqHJh3lpVzc?si=ZPP_R39W8bVDQ3Y9" target="_blank">en un solo dia</a> conectamos tan bien que desde entonces siento que gasté toda <a href="https://youtu.be/sfv0xWONROg?si=t9dLblf0wpBEbP-n" target="_blank">mi suerte</a> al encontrarte.
