@@ -21,6 +21,6 @@ Pero aún así, considero que eres la correcta.
 Ahora solo me queda preguntarte… <a href="https://youtu.be/TYrcdhots80?si=5HqLdnLmKOoKxmrU" target="_blank"> ¿a dónde vamos</a>, Kim? </h2>
                 
                 </p>
-            </div>
+           
         </body>
-</HTML>
+
